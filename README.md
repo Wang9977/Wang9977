@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Yona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang9977)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wang9977)](https://github.com/anuraghazra/github-readme-stats)
