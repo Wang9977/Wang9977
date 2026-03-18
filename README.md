@@ -1,4 +1,4 @@
-## Hi there 👋   I’m Yona 
+## Hi there 👋   I’m Yuna 
 
 <!--
 **Wang9977/Wang9977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
